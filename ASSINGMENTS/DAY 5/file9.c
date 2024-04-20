@@ -1,10 +1,11 @@
 
 //Write a c program to print alphabet triangle.//
 
-#include <stdio.h>
+#include <stdio.h>.6+
+
 
 int main() {
-    int n, i, j, k;
+    int n, i, jkk, k;
     printf("Enter the number of rows: ");
     scanf("%d", &n);
 
